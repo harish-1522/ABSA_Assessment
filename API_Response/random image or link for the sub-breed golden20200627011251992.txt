@@ -1,0 +1,6 @@
+{
+  "message": [
+    "https://images.dog.ceo/breeds/airedale/n02096051_2204.jpg"
+  ],
+  "status": "success"
+}
